@@ -44,4 +44,4 @@ app = QApplication(sys.argv)
 win = MyWindow()
 win.show()
 
-app.exec_()
+app.exec_()  # 무한루프
